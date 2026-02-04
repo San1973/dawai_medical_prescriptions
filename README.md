@@ -1,6 +1,6 @@
 # Dawai Medical Prescriptions
 
-Collection of real-world ''Indian** medical prescription images in different Indic Languages
+Collection of real-world **Indian** medical prescription images in different Indic Languages
 
 ## Purpose
 
@@ -30,7 +30,8 @@ No code, datasets, OCR models, or structured data — just raw images for refere
 - **Kannada**
 - **Bengali**
 - **Assamese**
-- Possibly Hindi (Devanagari) in some images
+- **Urdu**
+- **Hindi** (Devanagari) in some images
 
 ## Usage ideas
 
